@@ -1,0 +1,8 @@
+void elements are 
+1. <hr />
+2. <br />
+1. <hr />: The Thematic Break (Horizontal Rule) element
+The <hr> HTML element represents a thematic break between paragraph-level elements.
+
+2. <br />: The Line Break element
+The <br> HTML element produces a line break in text (carriage-return). It is useful for writing a poem or an address, where the division of lines is significant.

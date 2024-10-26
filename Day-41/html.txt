@@ -1,0 +1,32 @@
+HTML
+============
+
+Hyper Text Markup Language
+---------------------------
+
+HTML file defines structure of content in the website
+    -> Hyper Text contains links to other Text
+    -> Markup Language is a quote
+
+HTML and XML are structural languages to structure your website
+
+
+HTML Tages:
+-----------
+<a> <canvas> <dt> <iframe> <meta> <rp> <sup> <abbr> <caption> <em> 
+<img> <meter> <rt> <evg>  <area> <cite> <embed> <input> <mv> <raby> 
+<tabel> <article> <col> <figcaption> <kbd> <code> <fieldset> <ins> <s> 
+<mpmscript>  <tbody> <td> <samp> <object> <aside> <audio> <b> <base> 
+<bdi> <br> <button> <dl> <dialog> <dfn> <details> <dd> <del> <datalist> 
+<data> <colgroup> <figure> <footer> <from> <head> <header> <hgroup> 
+<h1 to h6> <hr> <html> <i> <keygen> <label> <legend> <li> <link> <main>
+<map> <mark> <menu> <menyitem> <q> <pre> <progress> <picture> <param> 
+<p> <output> <option> <ol> <optgroup> <script> <section> <select> 
+<small> <source> <span> <strong> <style> <sub> <summary> <template> 
+<textarea> <tfloat> <th> <thead> <title> <tr> <ul> <var> <video> <wbr>
+ <> <> <> <> <> <> 
+
+Example Tags:<h1/>
+where < - Opening tag
+and /> - closing tag
+finally h1 - element

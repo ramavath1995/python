@@ -1,0 +1,23 @@
+#paragraph{
+    background-color: blue;
+    border: 10px solid;
+    padding: 20px;
+    height: 200px;
+    width: 200px;
+}
+#orange{
+    background-color: orange;
+    border: 20px black solid;
+    border-width: 20px 10px;
+    height: 200px;
+    width: 200px;
+    margin-left: 260px;
+}
+#red{
+    background-color: red;
+    border: 10px black solid;
+    height: 200px;
+    width: 200px;
+    margin-left: 40px;
+    
+}
