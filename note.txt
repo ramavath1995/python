@@ -1,0 +1,6 @@
+class is an object constructor use to create objects
+
+in class, we have modules which are used for later use if same requirement is needed
+difference between attribute and method : Attributes in Python are variables associated with an object and are used to store DATA related to the object. Methods in Python are functions that are associated with an object, and they are used to perform operations on the object.
+To construct a object from a class parenthesis is at the end of class name: timmy = turtle.Turtle()
+
